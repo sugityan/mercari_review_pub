@@ -1,4 +1,6 @@
 <h1>メルカリのレビュー評価</h1>
+データ元：https://minhyo.jp/mercari
+
 resultフォルダ内に、結果の図がある
 
 <h1>問題</h1>
